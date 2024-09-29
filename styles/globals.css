@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Rick text editor dark theme */
+.quill-dark .ql-toolbar,
+.quill-dark .ql-container {
+  background-color: #333;
+  color: #fff;
+}
+
+.quill-dark .ql-editor {
+  background-color: #333;
+  color: #fff;
+}
+
+.quill-dark .ql-toolbar .ql-picker,
+.quill-dark .ql-toolbar button {
+  color: #fff;
+}
+
+.quill-dark .ql-snow .ql-stroke {
+  stroke: #fff;
+}
+
+.quill-dark .ql-snow .ql-fill,
+.quill-dark .ql-snow .ql-picker-label,
+.quill-dark .ql-snow .ql-picker-options {
+  color: #fff;
+}
+
+/* Drag and drop dark theme */
