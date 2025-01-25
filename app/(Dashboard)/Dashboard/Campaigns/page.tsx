@@ -2,7 +2,7 @@
 
 import AllCampaignTable from "@/components/Dashboard/Campaign/tables/AllCampaignTable";
 import React from "react";
-import { Button } from "@nextui-org/react";
+import { Button } from "@heroui/react";
 import { Plus } from "lucide-react";
 import { useRouter } from "next/navigation";
 

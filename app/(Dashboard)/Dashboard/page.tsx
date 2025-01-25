@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Card, CardBody, CardHeader, Divider, Button, Progress } from "@nextui-org/react";
+import { Card, CardBody, CardHeader, Divider, Button, Progress } from "@heroui/react";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { Mail, Users, Send, TrendingUp } from "lucide-react";
 

@@ -3,7 +3,7 @@
 import userApi from "@/app/api/user";
 import timeAgo from "@/utility/util";
 
-import { Button, Chip, Tooltip } from "@nextui-org/react";
+import { Button, Chip, Tooltip } from "@heroui/react";
 import { Trash2Icon } from "lucide-react";
 import { useState } from "react";
 

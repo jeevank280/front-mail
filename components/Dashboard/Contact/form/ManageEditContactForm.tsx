@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, ModalBody, ModalFooter, Input } from "@nextui-org/react";
+import { Button, ModalBody, ModalFooter, Input } from "@heroui/react";
 import React, { useEffect, useState } from "react";
 
 import userApi from "@/app/api/user";
@@ -8,7 +8,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { RootState, AppDispatch } from "@/redux/store";
 import { setContacts } from "@/redux/slices/contactsSlice";
 
-import { CheckboxGroup } from "@nextui-org/react";
+import { CheckboxGroup } from "@heroui/react";
 import { CustomCheckbox } from "./CustomCheckbox";
 
 export default function ManageEditContactForm({ onClose, data }: any) {

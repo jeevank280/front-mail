@@ -4,7 +4,7 @@ import userApi from "@/app/api/user";
 import { useEffect, useState } from "react";
 import TableRows from "./DomainTableRow";
 import Loader from "@/components/Loader";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 
 export default function DomainContainer() {
   const [isLoading, setIsloading] = useState(false);

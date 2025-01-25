@@ -8,7 +8,7 @@ import {
   Input,
   Select,
   SelectItem,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { Check, Info, X } from "lucide-react";
 import userApi from "@/app/api/user";
 

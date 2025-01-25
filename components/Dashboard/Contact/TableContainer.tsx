@@ -4,7 +4,7 @@ import userApi from "@/app/api/user";
 import { useEffect, useState } from "react";
 import TableRows from "./TableRows";
 import Loader from "@/components/Loader";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 
 import { useSelector, useDispatch } from "react-redux";
 import { RootState, AppDispatch } from "@/redux/store";

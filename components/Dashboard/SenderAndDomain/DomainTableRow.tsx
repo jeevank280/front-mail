@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Chip, Tooltip } from "@nextui-org/react";
+import { Button, Chip, Tooltip } from "@heroui/react";
 import { Pencil, Trash2Icon } from "lucide-react";
 import timeAgo from "@/utility/util";
 

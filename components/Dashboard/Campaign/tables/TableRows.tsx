@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Chip, Tooltip } from "@nextui-org/react";
+import { Button, Chip, Tooltip } from "@heroui/react";
 import DropDown from "./DropDown";
 import { Pencil } from "lucide-react";
 

@@ -9,7 +9,7 @@ import {
   Input,
   Chip,
   Kbd,
-} from "@nextui-org/react";
+} from "@heroui/react";
 
 import userApi from "@/app/api/user";
 

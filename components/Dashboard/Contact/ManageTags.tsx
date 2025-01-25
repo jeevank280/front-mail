@@ -9,7 +9,7 @@ import {
   ModalHeader,
   useDisclosure,
   Tooltip,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { Tags } from "lucide-react";
 
 import ManageTagsForm from "./form/ManageTagsForm";

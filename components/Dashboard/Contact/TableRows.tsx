@@ -8,7 +8,7 @@ import {
   ModalContent,
   ModalHeader,
   useDisclosure,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import DropDown from "./DropDown";
 import { Pencil } from "lucide-react";
 import timeAgo from "@/utility/util";

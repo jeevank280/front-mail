@@ -9,7 +9,7 @@ import { setCampaigns } from "@/redux/slices/campaignsSlice";
 import TableRows from "./TableRows";
 
 import Loader from "@/components/Loader";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 
 export default function AllCampaignTable() {
   const campaigns = useSelector(

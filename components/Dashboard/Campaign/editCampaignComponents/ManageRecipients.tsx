@@ -11,10 +11,10 @@ import {
   Radio,
   Chip,
   Spinner,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { Check, Info, X } from "lucide-react";
 
-import { CheckboxGroup } from "@nextui-org/react";
+import { CheckboxGroup } from "@heroui/react";
 import { CustomCheckbox } from "../../Contact/form/CustomCheckbox";
 
 import { useSelector, useDispatch } from "react-redux";

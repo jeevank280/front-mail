@@ -2,7 +2,7 @@ import "@/styles/globals.css";
 import PrelineScript from "@/app/PrelineScript";
 
 import { Metadata, Viewport } from "next";
-// import { Link } from "@nextui-org/link";
+// import { Link } from "@heroui/link";
 import clsx from "clsx";
 
 import { Providers } from "./providers";

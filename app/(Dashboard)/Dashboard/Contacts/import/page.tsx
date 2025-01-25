@@ -1,11 +1,11 @@
 "use client";
 
-import { Button } from "@nextui-org/react";
+import { Button } from "@heroui/react";
 import { useRouter } from "next/navigation";
 import { ArrowLeft, Sheet, CircleX } from "lucide-react";
 import React, { useState, ChangeEvent, useEffect } from "react";
 import Papa from "papaparse";
-import { Chip } from "@nextui-org/react";
+import { Chip } from "@heroui/react";
 import userApi from "@/app/api/user";
 
 /* *********************************************************

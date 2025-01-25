@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import { Button, Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Input } from "@nextui-org/react";
+import { Button, Dropdown, DropdownTrigger, DropdownMenu, DropdownItem, Input } from "@heroui/react";
 import { ArrowLeft, Bold, Italic, Underline, AlignLeft, AlignCenter, AlignRight, List, Image, Link, Type, Layout } from "lucide-react";
 import EmailEditor from 'react-email-editor';
 

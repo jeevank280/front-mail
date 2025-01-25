@@ -2,7 +2,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 
-import { Link, Button } from "@nextui-org/react";
+import { Link, Button } from "@heroui/react";
 import { useRouter } from "next/navigation";
 
 import { RootState, AppDispatch } from "@/redux/store";

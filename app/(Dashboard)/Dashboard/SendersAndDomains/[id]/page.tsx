@@ -3,9 +3,9 @@
 import userApi from "@/app/api/user";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import { Button, Chip } from "@nextui-org/react";
+import { Button, Chip } from "@heroui/react";
 import { ArrowLeft, RefreshCcw, Trash2Icon } from "lucide-react";
-import { Code } from "@nextui-org/react";
+import { Code } from "@heroui/react";
 
 export default function ViewDomain({ params }: any) {
   const [loading, setLoading] = useState(false);

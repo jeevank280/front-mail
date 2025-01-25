@@ -5,7 +5,7 @@ import userApi from "@/app/api/user";
 
 import Loader from "@/components/Loader";
 import TableRows from "./TableRow";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 
 export default function SenderEmailsContainer() {
   const [isLoading, setIsloading] = useState(false);

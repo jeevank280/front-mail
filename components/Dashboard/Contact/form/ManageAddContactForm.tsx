@@ -1,11 +1,11 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Button, ModalBody, ModalFooter, Input } from "@nextui-org/react";
+import { Button, ModalBody, ModalFooter, Input } from "@heroui/react";
 
 import userApi from "@/app/api/user";
 
-import { CheckboxGroup } from "@nextui-org/react";
+import { CheckboxGroup } from "@heroui/react";
 import { CustomCheckbox } from "./CustomCheckbox";
 
 import { useSelector, useDispatch } from "react-redux";

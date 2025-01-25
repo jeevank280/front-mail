@@ -4,7 +4,7 @@ import CodeYourOwnComponent from "@/components/Dashboard/Campaign/templateSelect
 import MyCampaignsComponent from "@/components/Dashboard/Campaign/templateSelections/MyCampaignsComponent";
 import MyTemplatesComponent from "@/components/Dashboard/Campaign/templateSelections/MyTemplatesComponent";
 import TemplateGalleryComponent from "@/components/Dashboard/Campaign/templateSelections/TemplateGalleryComponent";
-import { Button, Tabs, Tab } from "@nextui-org/react";
+import { Button, Tabs, Tab } from "@heroui/react";
 import { ArrowLeft } from "lucide-react";
 import { useRouter } from "next/navigation";
 import React from "react";

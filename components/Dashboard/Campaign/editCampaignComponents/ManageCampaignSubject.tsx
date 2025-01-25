@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Avatar, AvatarIcon, Button, Textarea } from "@nextui-org/react";
+import { Avatar, AvatarIcon, Button, Textarea } from "@heroui/react";
 import { Check, Info, X } from "lucide-react";
 
 import { useSelector, useDispatch } from "react-redux";

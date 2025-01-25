@@ -2,7 +2,7 @@
 
 import dynamic from "next/dynamic";
 import { useEffect, useState } from "react";
-import { Button } from "@nextui-org/react";
+import { Button } from "@heroui/react";
 import { ArrowLeft } from "lucide-react";
 import "react-quill/dist/quill.snow.css";
 

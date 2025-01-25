@@ -1,7 +1,7 @@
 "use client";
 
 import userApi from "@/app/api/user";
-import { Input, Button } from "@nextui-org/react";
+import { Input, Button } from "@heroui/react";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 

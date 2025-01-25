@@ -7,7 +7,7 @@ DropdownTrigger,
 DropdownMenu,
 DropdownItem,
 Button,
-} from "@nextui-org/react";
+} from "@heroui/react";
 
 import { useSelector, useDispatch } from 'react-redux';
 import { RootState, AppDispatch } from '../redux/store';

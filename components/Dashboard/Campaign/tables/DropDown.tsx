@@ -7,7 +7,7 @@ import {
   DropdownMenu,
   DropdownItem,
   Button,
-} from "@nextui-org/react";
+} from "@heroui/react";
 import { EllipsisVertical } from "lucide-react";
 
 import userApi from "@/app/api/user";

@@ -3,7 +3,7 @@
 import DomainContainer from "@/components/Dashboard/SenderAndDomain/DomainContainer";
 import SenderEmailsContainer from "@/components/Dashboard/SenderAndDomain/SenderEmailsContainer";
 
-import { Button } from "@nextui-org/react";
+import { Button } from "@heroui/react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState, useEffect } from "react";
 

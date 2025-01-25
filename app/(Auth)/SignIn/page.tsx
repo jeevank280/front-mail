@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Input, Link, Button } from "@nextui-org/react";
+import { Input, Link, Button } from "@heroui/react";
 import { Eye, EyeOff } from "lucide-react";
 import LoginWithGoogle from "@/components/Buttons/LoginWithGoogle";
 // import validateEmail from "@/utility/util";

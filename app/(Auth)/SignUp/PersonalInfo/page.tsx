@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Input, Button, Checkbox } from "@nextui-org/react";
+import { Input, Button, Checkbox } from "@heroui/react";
 import { useRouter } from "next/navigation";
 
 import { RootState, AppDispatch } from "@/redux/store";

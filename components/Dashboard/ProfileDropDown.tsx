@@ -5,7 +5,7 @@ import {
   DropdownMenu,
   DropdownItem,
   Avatar,
-} from "@nextui-org/react";
+} from "@heroui/react";
 
 import { RootState, AppDispatch } from "@/redux/store";
 import { useSelector, useDispatch } from "react-redux";

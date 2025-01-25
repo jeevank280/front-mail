@@ -1,6 +1,6 @@
 "use client";
 
-import { Button, Chip } from "@nextui-org/react";
+import { Button, Chip } from "@heroui/react";
 import { ArrowLeft } from "lucide-react";
 import React from "react";
 
